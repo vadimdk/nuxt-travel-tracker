@@ -6,7 +6,7 @@
       Hello world!
     </h1>
     <button class="btn btn-accent">
-      Accent
+      View Map <Icon name="tabler:map" />
     </button>
   </div>
 </template>
